@@ -1,2 +1,38 @@
-# hospital-dashboard
-Dashboard for hospital management using HTML, CSS, Bootstrap and JavaScript.
+# Hospital Dashboard
+
+مشروع لوحة تحكم (Dashboard) لمستشفى، مبني باستخدام HTML، CSS، Bootstrap وجافاسكريبت.
+
+## الوصف
+
+هذا المشروع يحتوي على صفحة تسجيل دخول (Login Page) وصفحة رئيسية للوحة التحكم تعرض معلومات المستشفى بطريقة تفاعلية وسهلة الاستخدام.
+
+## المميزات
+
+- تصميم متجاوب باستخدام Bootstrap.
+- صفحة تسجيل دخول بسيطة مع التحقق من بيانات الدخول باستخدام localStorage.
+- تنظيم الصفحات لسهولة التصفح.
+
+## كيفية الاستخدام
+
+1. افتح صفحة `login.html` وسجل الدخول باستخدام:
+   - اسم المستخدم: `admin`
+   - كلمة المرور: `12345`
+2. بعد تسجيل الدخول ستنتقل إلى الصفحة الرئيسية `index.html`.
+
+## التقنيات المستخدمة
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## التواصل
+
+لو عندك أي استفسار، تواصل معي عبر:
+
+- البريد الإلكتروني: [Ayman.Mohamed.Ebaid@gmail.com](mailto:Ayman.Mohamed.Ebaid@gmail.com)
+- لينكدإن: [Ayman Ebaid](https://www.linkedin.com/in/ayman-mohamed-711031357)
+
+---
+
+شكراً لزيارتك للمشروع!
